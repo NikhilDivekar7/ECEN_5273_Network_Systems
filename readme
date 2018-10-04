@@ -1,0 +1,18 @@
+This is Programming assignment 1.
+
+This assignment concerns with socket programming with server-client model which provides various option such as get the file, put the file, delete the file, list the files, and exiting process.
+
+The reliable transmission is achieved by using ack-nack in stop and wait protocol.
+
+I have server and client in 2 different folders
+
+The executable can be run as follows:
+server: ./server 5001
+client :./client 127.0.0.1 5001
+
+For testing purpose of get I used abc.png ==> get abc.png
+For testing purpose of put I used abcd.png ==> put abcd.png
+
+
+
+
