@@ -1,0 +1,14 @@
+This is a readme for Nikhil Divekar for Programming Assignment 2
+
+The folder contains www example folder and server.c file
+
+make server to create the executable OR
+gcc -o server server.c
+
+To run the file: ./server [port_number]
+
+To test the server: Web URL: localhost:[port_number]/path
+
+Extra credits:
+1) Post (Done and working)
+2) Pipelining (Done and working with postman software)
